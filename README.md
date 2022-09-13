@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @WittyDimension
+- 👋 Hi, I’m WittyDimension
 - 👀 I’m interested in Electronics, Controls, Machine Learning, NLP programming, Chatbot, GUI development, Game Development and Website Development.
 - :robot: I'm currently working on Electronics, PCB designing and Controls.
 - 🌱 I’m learning Web Development, Machine Learning.
